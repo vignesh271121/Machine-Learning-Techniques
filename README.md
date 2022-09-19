@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/97229745/191010683-0406793a-6d21-4bc7-b114-9a69e2f0f1f5.png)
 
-<b>STEP 5</b>: Check this url -https://cocodataset.org/#home. Here we are considering object detection for a pre-trained yolo model . go to https://pjreddie.com/darknet/yolo/ and click on the configuration and weights and download both files.click on raw and then save as “yolo.cfg” remember to select all files to remove .txt extension. Save it inside model folder.
+<b>STEP 5</b>: Check this url -https://cocodataset.org/#home. object detection for a pre-trained yolo model . next go to https://pjreddie.com/darknet/yolo/ and click on the configuration and weights and download both files.click on raw and then save as “yolo.cfg” remember to select all files to remove .txt extension. Save it inside model folder.
 
 ![image](https://user-images.githubusercontent.com/97229745/191009862-86cef685-cd49-47ef-9197-0012487e5f64.png)
 
