@@ -13,6 +13,18 @@
 
 <b>STEP 5</b>: Check this url -https://cocodataset.org/#home. object detection for a pre-trained yolo model . next go to https://pjreddie.com/darknet/yolo/ and click on the configuration and weights and download both files.click on raw and then save as “yolo.cfg” remember to select all files to remove .txt extension. Save it inside model folder.
 
+class_labels = ["person","bicycle","car","motorcycle","airplane","bus","train","truck","boat",
+                "trafficlight","firehydrant","stopsign","parkingmeter","bench","bird","cat",
+                "dog","horse","sheep","cow","elephant","bear","zebra","giraffe","backpack",
+                "umbrella","handbag","tie","suitcase","frisbee","skis","snowboard","sportsball",
+                "kite","baseballbat","baseballglove","skateboard","surfboard","tennisracket",
+                "bottle","wineglass","cup","fork","knife","spoon","bowl","banana","apple",
+                "sandwich","orange","broccoli","carrot","hotdog","pizza","donut","cake","chair",
+                "sofa","pottedplant","bed","diningtable","toilet","tvmonitor","laptop","mouse",
+                "remote","keyboard","cellphone","microwave","oven","toaster","sink","refrigerator",
+                "book","clock","vase","scissors","teddybear","hairdrier","toothbrush"]
+
+
 ![image](https://user-images.githubusercontent.com/97229745/191009862-86cef685-cd49-47ef-9197-0012487e5f64.png)
 
 <b>STEP 6</b>: Edit the download location. Create a folder named as images/testing and inside that folder put a file named scene2.jpg  
