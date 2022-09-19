@@ -1,5 +1,5 @@
 # Machine-Learning-Techniques
-<h2>How to Install and Run This App</h2>
+<h2>How to Install and Run</h2>
 
 <b>STEP 1</b>: Make sure ANACONDA is installed on your workstation. If you dont have it, you can get it here ---> https://www.anaconda.com/products/distribution
 
