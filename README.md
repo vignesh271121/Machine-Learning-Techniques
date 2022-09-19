@@ -3,9 +3,9 @@
 
 <b>STEP 1</b>: Make sure ANACONDA is installed on your workstation. If you dont have it, you can get it here ---> https://www.anaconda.com/products/distribution
 
-<b>STEP 2</b>: Fork this repo. Start by making sure you're logged into GitHub. Then click the Fork button in the upper-right hand corner of this page (https://github.com/vignesh271121/Webex_data_generate) and follow the prompts.
+<b>STEP 2</b>: Fork this repo. Start by making sure you're logged into GitHub. Then click the Fork button in the upper-right hand corner of this page (https://github.com/vignesh271121/Machine-Learning-Techniques) and follow the prompts.
 
-<b>STEP 3</b>: Clone this repo. Click the green code button and copy the URL listed under 'HTTPS'. Now go to you IDE, such as VS Code, PyCharm or Atom, find a place to clone it and type 'git clone' plus the URL you just copied. For example 'git clone https://github.com/vignesh271121/Webex_data_generate.git'
+<b>STEP 3</b>: Clone this repo. Click the green code button and copy the URL listed under 'HTTPS'. Now go to you IDE, such as VS Code, PyCharm or Atom, find a place to clone it and type 'git clone' plus the URL you just copied. For example 'git clone https://github.com/vignesh271121/Machine-Learning-Techniques.git'
 
 <b>STEP 4</b>: Install opencv using anaconda prompt. Type pip install opencv-python
 
