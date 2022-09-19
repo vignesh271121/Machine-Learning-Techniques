@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/97229745/191010833-959bad6b-615d-483b-a297-4bc1e4b751bc.png)
 
-<b>STEP 7</b>: Run the code. Open anaconda spider and create a new file were we are going to code the model.
+<b>STEP 7</b>: Run the code pretrained_yolo_image.py. Open anaconda spider and create a new file were we are going to code the model.
 
 ![image](https://user-images.githubusercontent.com/97229745/191011482-06e6499d-3e80-4c97-ab2c-307bb82f0670.png)
 
